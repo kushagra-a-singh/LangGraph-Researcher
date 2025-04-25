@@ -1,9 +1,6 @@
 from langchain_community.llms import Ollama
 
 class AnswerDrafterAgent:
-    """
-    Agent that synthesizes answers from research results.
-    """
     def __init__(self, llm=None):
         self.llm = llm or Ollama(model="phi3")
 
