@@ -26,6 +26,13 @@ This system is a dual-agent AI research assistant, built with LangChain, LangGra
 
 - **Research Agent:** Gathers and organizes web information using Tavily (web crawling/search API).
 - **Answer Drafter Agent:** Synthesizes a comprehensive answer from the research results.
+  
+![image](https://github.com/user-attachments/assets/e1c8e600-79f5-42cf-940c-5752aee1784b)
+
+
+![image](https://github.com/user-attachments/assets/cb9205e4-f935-4899-8c19-72334b770adc)
+
+
 
 ## Architecture
 
